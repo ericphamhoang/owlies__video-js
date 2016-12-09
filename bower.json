@@ -1,0 +1,20 @@
+{
+  "name": "videojs",
+  "authors": [
+    "ericphamhoang <ericphamhoang@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "video.js": "^5.14.1"
+  }
+}
