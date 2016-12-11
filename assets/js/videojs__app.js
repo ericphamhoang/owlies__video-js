@@ -25,15 +25,5 @@ jQuery(window).load(function () {
 
             downloadingImage.src = image.getAttribute("data-src");
         }
-        // else {
-        //
-        //     setTimeout(
-        //         function () {
-        //             jQuery(window).trigger(
-        //                 'videojs_'+image.getAttribute("data-id")+'__video__onended'
-        //             );
-        //         }, parseInt(image.getAttribute("data-frame-count")) * 0.1 * 1000
-        //     );
-        // }
     }
 });
